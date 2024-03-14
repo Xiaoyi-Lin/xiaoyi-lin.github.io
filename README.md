@@ -3,7 +3,7 @@
 *This is the source code of my homepage. I build this website based on [minimal-light](https://github.com/orderedlist/minimal).*
 <br>
 
-The latest version of my homepage is available here: [[link](https://github.com/yaoyao-liu/yaoyao-liu.github.io)]
+The latest version of my homepage is available here: [[link](https://xiaoyi-lin.github.io)]
 <br>
 A template for Max Planck Institute for Informatics is available here: [[link](https://github.com/yaoyao-liu/minimal-light-theme-mpi-inf)]
 
