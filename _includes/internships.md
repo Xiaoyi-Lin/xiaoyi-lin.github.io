@@ -1,16 +1,19 @@
 ## Industrial Experiences
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h3 style="margin:0 10px 0;">C++ SDE Intern</h3>
+<h4 style="margin:0 10px 0;">Amazon Robotics, North Reading, MA</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><autocolor>Adopted and implemented an up-to-date machine learning-based algorithm for collision detection using C++.</autocolor></li>
+  <li><autocolor>Effectively integrated the algorithm with motion planning code base; reduced 5.4% overall computational expenses for each planning, improving collision checking run-time from ~1ms to ~100ns. </autocolor></li>
+  <li><autocolor>Developed test strategy and conducted simulations on the Nvidia PhysX platform and AWS S3.</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<h3 style="margin:0 10px 0;">R&D Intern</h3>
+<h4 style="margin:0 10px 0;">Volkswagen, Shanghai, China</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>Improved a machine learning-based driver fitness determination system using Python. Resolved the overfitting problem by decreasing the sensitivity of RNN, reducing the error rate of blinking detection by 12%; </autocolor></li>
+  <li><autocolor>Adopted CI/CD to deploy the system onto the flagship model VW Tiguan using C++ and AUTOSAR</autocolor></li>
 </ul>
