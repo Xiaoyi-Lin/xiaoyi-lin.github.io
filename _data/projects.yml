@@ -1,0 +1,29 @@
+main:
+
+  - title: Advanced perception for learning-based auto lane-changing
+    description: •  Leveraged perception for a learning-based auto lane-changing project using RGBD camera and LiDAR; <br>•	Developing an end-to-end motion planner with diffusion from learning model, enhanced the safety and efficiency of the vehicle under low-representative situations.
+    affiliation: Control and Networks Lab, NYU
+    supervisor: Supervised by Prof. Zhong-Ping Jiang
+    page: https://eeweb.engineering.nyu.edu/~canlab/research.html
+    image: ./assets/img/Lane-Changing.png
+
+  - title: Mapping/Localization/Navigation R&D for Self-Driving
+    description: •	Optimized a redundant mapping process by utilizing openVSLAM system, kept its robustness on Colmap but reduced offline processing time and supported more features than the current ORB filter.
+    affiliation: AI4CE Lab, NYU
+    supervisor: Supervised by Prof. Chen Feng
+    page: https://github.com/ai4ce/UNav_develop
+    image: ./assets/img/UNav.png
+
+  - title: 3D Reconstruction Based on Depth-Optical Fusion DNN
+    description: •	Constructed an artificial neural network by PyTorch; completed the fusion of optical flow, depth and semantic information; implemented moving average method to optimize the framework;<br>•	Completed the high-quality reconstruction of three-dimensional images.
+    affiliation: Oxford University, UK
+    supervisor: Supervised by Dr. Jianqing Zheng
+    page: https://arxiv.org/abs/2208.11993
+    image: ./assets/img/Depth2Optical.png
+
+  - title: Automatic Venipuncture Robot Based on Deep Learning
+    description: •	Designed the compact supporting unit, positioning unit, puncturing unit, and imaging unit;<br>•	Designed a semi-supervised method for vein segmentation - Semi-ResNeXt-Unet, which can determine the depth of a vein in ultrasound images and hence navigate the puncture of VeniBot;<br>•	Collected ultrasound images of 400 patients, including 100 manually labeled patients and 300 unlabeled patients, to validate the semi-ResNeXt-Unet network.
+    affiliation: Tongji University, Shanghai, China
+    supervisor: Supervised by Prof. Peng Qi
+    page: https://news.cyol.com/app/2021-01/21/content_18926691.htm
+    image: ./assets/img/Veni.png  
