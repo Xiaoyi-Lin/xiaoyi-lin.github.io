@@ -462,7 +462,10 @@ footer {
 
   .pub-row {
   display: flex; 
-  align-items: center;}
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
 
   div.wrapper {
     width:auto;
