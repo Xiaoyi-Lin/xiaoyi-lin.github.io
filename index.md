@@ -4,8 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Xiaoyi Lin, a second-year graduate student in Computer Engineering and research assistant at NYU. 
-I received my Bachelor's degree in Mechanical Engineering at Tongji University, Shanghai, China.
+Hi, I am Elsie (Xiaoyi) Lin, a Machine Learning Engineer at Ambarella working on autonomous driving perception and robotics systems. I received my M.S. degree in Computer Engineering from New York University, where I conducted research in the Control and Networks Lab (CAN Lab) and AI4CE Lab.
+
+My work focuses on deep learning-based perception systems, multi-modal sensor fusion, trajectory prediction, and real-time AI deployment for autonomous systems. At Ambarella, I develop production-grade radar perception DNN pipelines using high-resolution imaging radar and Transformer-based architectures for traffic actor detection, tracking, free-space reasoning, and autonomous driving behavior understanding. I also work on Quantization Aware Training (QAT), model compression, and embedded deployment optimization for real-time inference on resource-constrained autonomous driving platforms.
+
+Previously, I worked at Amazon Robotics on motion planning and machine-learning-based collision checking systems for robotic manipulation and autonomous navigation. My research experience spans autonomous driving, reinforcement learning-based motion planning, SLAM, mapping/localization, diffusion-based planning systems, and large-scale simulation/testing infrastructure.
+
+I am actively seeking PhD opportunities in Robotics and Embodied AI.
 
 ## Technical Skills
 
