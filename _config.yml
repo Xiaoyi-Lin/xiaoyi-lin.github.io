@@ -1,13 +1,13 @@
 # Basic Information 
 title: Xiaoyi Lin
-position: Graduate Student & Research Assistant
-affiliation: New York University
-email: xl4708@nyu.edu
+position: Robotics & Autonomous Systems Research Engineer
+affiliation: Ambarella Inc.
+email: linxiaoyi1108@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Xiaoyi Lin
-description: Xiaoyi Lin is a second year graduate student and research assistant at NYU
+description: Xiaoyi Lin is an autonomous driving perception system and robotics researcher
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -18,7 +18,7 @@ linkedin: https://www.linkedin.com/in/xiaoyilin-nyu/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile.png
+avatar: ./assets/img/ProfilePhoto.png
 favicon: ./assets/img/favicon.jpg
 favicon_dark: ./assets/img/favicon-dark.png
 
