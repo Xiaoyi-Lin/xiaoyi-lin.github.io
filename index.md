@@ -27,4 +27,6 @@ I am actively seeking PhD opportunities in Robotics and Embodied AI.
 - **[[CN113111915A](https://patents.google.com/patent/CN113111915A/en)]** Database enhancement method applied to vein insertion robot blood vessel identification
 - **[[CN112381816B](https://patents.google.com/patent/CN112381816B/en)]** Blood vessel puncture angle acquisition and puncture method based on image recognition and feedback control
 
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/projects.md %}
