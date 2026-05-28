@@ -1,9 +1,27 @@
-## Internship
+## Work Experience
 
 <div class="publications">
 <ol class="bibliography">
 
-
+<li >
+  <div class="pub-row">
+    <div class="col-sm-9" style="position: relative">
+    <div>
+    <h3 style="margin:0 10px 0;">Machine Learning Engineer</h3>
+    <h4 style="margin:0 10px 0;">Oculii (An Ambarella Company), Beavercreek, OH</h4>
+  </div>
+      <ul style="margin:0 0 5px;">
+        <li><autocolor>Developed production-grade autonomous driving systems using high-resolution imaging radar and deep learning pipelines.</autocolor></li>
+        <li><autocolor>Improved traffic actor classification accuracy from 60% to 82% using multi-modal Transformer-based perception systems. </autocolor></li>
+        <li><autocolor>Conducted research on Quantization Aware Training (QAT), model compression, and real-time embedded deployment optimization.</autocolor></li>
+        <li><autocolor>Developed Occupancy Grid Mapping and free-space reasoning systems for navigation-aware autonomous driving applications.</autocolor></li>
+      </ul>
+    </div>
+    <div class="col-sm-3 abbr" style="position: relative">
+      <img src="./assets/img/OculiiGroup.jpeg" class="teaser" style="width=100%;height=auto">
+    </div>
+  </div>
+</li>
 
 <li >
   <div class="pub-row">

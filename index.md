@@ -18,7 +18,7 @@ I am actively seeking PhD opportunities in Robotics and Embodied AI.
 - **Frameworks:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; TensorFlow, PyTorch, OpenCV, ROS, Django, React, Flask
 - **Software & Tools:** &emsp;&emsp;&emsp;&emsp;&nbsp; Docker, CMake, scikit-learn, Git, OpenVSLAM, Solidworks, Ansys
 
-{% include_relative _includes/internships.md %}
+{% include_relative _includes/work.md %}
 
 ## Patterns
 
